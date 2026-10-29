@@ -687,7 +687,7 @@
   <DisasterSurvivor29.titleShortFemale>superviviente</DisasterSurvivor29.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was uprooted when marauders attacked [PAWN_possessive] family farm, destroying machinery and killing farmhands and beasts alike.\n\nAfter the death of all [PAWN_pronoun] knew, [PAWN_pronoun] was left in the ruins to fend for [PAWN_objective]self. -->
-  <DisasterSurvivor65.description>[PAWN_nameDef] fue desarraigad{PAWN_gender ? o : a} cuando unos merodeadores atacaron la granja de su familia, destruyendo la maquinaria y matando a labradores y bestias por igual\n\nTras la muerte de todo lo que conocía, fue abandonad{PAWN_gender ? o : a} a su suerte en las ruinas..</DisasterSurvivor65.description>
+  <DisasterSurvivor65.description>[PAWN_nameDef] fue desarraigad{PAWN_gender ? o : a} cuando unos merodeadores atacaron la granja de su familia, destruyendo la maquinaria y matando a labradores y bestias por igual\n\nTras la muerte de todo lo que conocía, fue abandonad{PAWN_gender ? o : a} a su suerte en las ruinas.</DisasterSurvivor65.description>
   <!-- EN: disaster survivor -->
   <DisasterSurvivor65.title>sobreviviente de desastre</DisasterSurvivor65.title>
   <DisasterSurvivor65.titleFemale>sobreviviente de desastre</DisasterSurvivor65.titleFemale>
@@ -1208,7 +1208,7 @@
   <KidScientist53.titleShortFemale>científica</KidScientist53.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a bloodlusting child. Villagers thought [PAWN_objective] the product of a snake demon and human coupling.\n\nAfter watching how [PAWN_possessive] human father betrayed and murdered [PAWN_possessive] mother, [PAWN_pronoun] longed to see how many more humans [PAWN_pronoun] could get to fall into [PAWN_possessive] hands. -->
-  <Killer41.description>[PAWN_nameDef] era {PAWN_gender ?  un niño : una niña} sanguinario. Los aldeanos [PAWN_objective] consideraban el producto de un demonio serpiente y un acoplamiento humano.\n\nDespués de ver cómo su padre humano traicionó y asesinó a su madre, anhelaba ver cuántos humanos más podrían llegar a caer en sus manos.</Killer41.description>
+  <Killer41.description>[PAWN_nameDef] era {PAWN_gender ? un niño sanguinario : una niña sanguinaria}. Los aldeanos [PAWN_objective] consideraban el producto de un demonio serpiente y un acoplamiento humano.\n\nDespués de ver cómo su padre humano traicionó y asesinó a su madre, anhelaba ver cuántos humanos más podrían llegar a caer en sus manos.</Killer41.description>
   <!-- EN: killer -->
   <Killer41.title>asesino</Killer41.title>
   <Killer41.titleFemale>asesina</Killer41.titleFemale>

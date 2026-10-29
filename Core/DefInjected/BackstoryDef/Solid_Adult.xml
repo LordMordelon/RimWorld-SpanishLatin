@@ -1269,7 +1269,7 @@
   <MasterChef48.titleShortFemale>chef</MasterChef48.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a master at trading. [PAWN_pronoun] earned [PAWN_possessive] nickname by helping a village through a trying time. -->
-  <MasterTrader65.description>[PAWN_nameDef] era {PAWN_gender ? un maestro : una maestra} en el comercio. ganó su apodo ayudando a un pueblo que atravezó por tiempos difíciles.</MasterTrader65.description>
+  <MasterTrader65.description>[PAWN_nameDef] era {PAWN_gender ? un maestro : una maestra} en el comercio. Ganó su apodo ayudando a un pueblo que atravesó por tiempos difíciles.</MasterTrader65.description>
   <!-- EN: master trader -->
   <MasterTrader65.title>maestro comerciante</MasterTrader65.title>
   <MasterTrader65.titleFemale>maestra comerciante</MasterTrader65.titleFemale>
@@ -1659,7 +1659,7 @@
   <PlagueDoctor31.titleShortFemale>doctora</PlagueDoctor31.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s passion and profession was interplanetary politics. [PAWN_pronoun] was a master of social manipulation and negotiation and devoted [PAWN_objective]self to working towards peace, compromise and mutual benefit. -->
-  <PlanetaryDiplomat7.description>La pasión y profesión de [PAWN_nameDef] fue la política interplanetaria. donde era un{PAWN_gender ?  : a} maestr{PAWN_gender ? o : a} de la manipulación social y la negociación y se dedicó a trabajar en pro de la paz, el compromiso y el beneficio mutuo.</PlanetaryDiplomat7.description>
+  <PlanetaryDiplomat7.description>La pasión y profesión de [PAWN_nameDef] fue la política interplanetaria, donde era un{PAWN_gender ?  : a} maestr{PAWN_gender ? o : a} de la manipulación social y la negociación y se dedicó a trabajar en pro de la paz, el compromiso y el beneficio mutuo.</PlanetaryDiplomat7.description>
   <!-- EN: planetary diplomat -->
   <PlanetaryDiplomat7.title>diplomático planetario</PlanetaryDiplomat7.title>
   <PlanetaryDiplomat7.titleFemale>diplomática planetaria</PlanetaryDiplomat7.titleFemale>
@@ -1986,7 +1986,7 @@
   <SoftwareDeveloper84.titleShortFemale>desarrolladora</SoftwareDeveloper84.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] lived in a remote colony. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor. -->
-  <SoleSurvivor85.description>[PAWN_nameDef] vivía en una colonia remota. Cuando los ciempiés mecanoides atacaron su casa y mataron su gente, [PAWN_pronoun] fue {PAWN_gender ? el último  : la última} sobreviviente.</SoleSurvivor85.description>
+  <SoleSurvivor85.description>[PAWN_nameDef] vivía en una colonia remota. Cuando los ciempiés mecanoides atacaron su casa y mataron a su gente, [PAWN_pronoun] fue {PAWN_gender ? el último  : la última} sobreviviente.</SoleSurvivor85.description>
   <!-- EN: sole survivor -->
   <SoleSurvivor85.title>único sobreviviente</SoleSurvivor85.title>
   <SoleSurvivor85.titleFemale>única superviviente</SoleSurvivor85.titleFemale>
