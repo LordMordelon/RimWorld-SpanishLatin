@@ -1260,7 +1260,7 @@
   <MarineCadet73.titleShort>cadete</MarineCadet73.titleShort>
   
   <!-- EN: The only son of a well respected mechanoid inventor, [PAWN_nameDef] had access to the materials to subvert and modify [PAWN_possessive] father's creations.\n\n[PAWN_pronoun] used drugs to increase [PAWN_possessive] productivity. Unfortunately, the side-effects included persistent delusions of being mechanized, which limited [PAWN_possessive] social life. -->
-  <MechanoidHacker93.description>El único hijo de un respetado inventor mecanoide, [PAWN_nameDef] tuvo acceso a los materiales para subvertir y modificar las creaciones de su padre.\n\n[Usó medicamentos para aumentar su productividad. Desafortunadamente, los efectos secundarios incluyeron delirios persistentes de mecanización, lo que limitó su vida social.</MechanoidHacker93.description>
+  <MechanoidHacker93.description>El único hijo de un respetado inventor mecanoide, [PAWN_nameDef] tuvo acceso a los materiales para subvertir y modificar las creaciones de su padre.\n\n  Usó medicamentos para aumentar su productividad. Desafortunadamente, los efectos secundarios incluyeron delirios persistentes de mecanización, lo que limitó su vida social.</MechanoidHacker93.description>
   <!-- EN: mechanoid hacker -->
   <MechanoidHacker93.title>hacker de mecanoides</MechanoidHacker93.title>
   <MechanoidHacker93.titleFemale>hacker de mecanoides</MechanoidHacker93.titleFemale>
