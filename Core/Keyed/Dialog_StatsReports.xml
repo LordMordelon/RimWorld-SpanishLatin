@@ -233,7 +233,7 @@
   <!-- EN: The minimum skill needed for a farmer to sow this plant. -->
   <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>La habilidad mínima necesaria para que un agricultor siembre esta planta.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>El tipo de comida que que esta criatura es capaz de comer.\n\nPuede comer: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>El tipo de comida que esta criatura es capaz de comer.\n\nPuede comer: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
   <Stat_Race_LeatherType_Desc>El tipo de cuero que producirá esta criatura cuando sea despiezado.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
