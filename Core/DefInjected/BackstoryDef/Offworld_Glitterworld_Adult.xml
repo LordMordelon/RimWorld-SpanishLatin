@@ -49,8 +49,8 @@
   <!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering, so [PAWN_possessive] job focused on elaborate and creative cosmetic surgeries. \n\n[PAWN_pronoun] understands human biology, deeply, but has never had to remove a tumour — or a bullet. -->
   <GlitterworldSurgeon15.description>[PAWN_nameDef] trabajaba como cirujan{PAWN_gender ? o : a} en un mundo casi libre de enfermedades y sufrimiento humano, por lo que su trabajo se centraba en cirugías estéticas elaboradas y creativas.\n\nEntiende a fondo la biología humana, pero nunca ha tenido que extirpar un tumor, ni una bala.</GlitterworldSurgeon15.description>
   <!-- EN: glitterworld surgeon -->
-  <GlitterworldSurgeon15.title>cirujano de mundobrillante</GlitterworldSurgeon15.title>
-  <GlitterworldSurgeon15.titleFemale>cirujana de mundobrillante</GlitterworldSurgeon15.titleFemale>
+  <GlitterworldSurgeon15.title>cirujano mundobrillante</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleFemale>cirujana mundobrillante</GlitterworldSurgeon15.titleFemale>
   <!-- EN: surgeon -->
   <GlitterworldSurgeon15.titleShort>cirujano</GlitterworldSurgeon15.titleShort>
   <GlitterworldSurgeon15.titleShortFemale>cirujana</GlitterworldSurgeon15.titleShortFemale>
